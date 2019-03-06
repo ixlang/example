@@ -1,5 +1,4 @@
-{
- "xlang":[
+[
    {
       "name":"win32App",
       "language":"xlang",
@@ -8,4 +7,3 @@
       "url":"https://raw.githubusercontent.com/ixlang/examples/master/update.zip"
     }
  ]
-}
