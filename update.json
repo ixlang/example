@@ -6,7 +6,7 @@
       "language":"xlang",
       "platform":"Window(x86,x64,RT),linux(x86,x64,ARM),Mac OSX",
       "details":	"使用HttpRequest类下载文件",
-      "url":"https://github.com/ixlang/examples/raw/master/http_test.zip"
+      "url":"https://raw.githubusercontent.com/ixlang/examples/master/http_test.zip"
     }
  ]
 }
