@@ -2,6 +2,7 @@
    "xlang":[
    {
       "name":"win32App",
+      "dafault":"win32App",
       "language":"xlang",
       "platform":"Window(x86,x64,RT),linux(x86,x64,ARM),Mac OSX",
       "details":	"控制台应用程序",
