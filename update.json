@@ -5,7 +5,7 @@
       "language":"xlang",
       "platform":"Window(x86,x64,RT),linux(x86,x64,ARM),Mac OSX",
       "details":	"控制台应用程序",
-      "url"
+      "url":"https://raw.githubusercontent.com/ixlang/examples/master/update.zip"
     }
  ]
 }
