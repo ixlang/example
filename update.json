@@ -2,11 +2,12 @@
    "xlang":[
    {
       "name":"Http(s)下载文件",
-      "dafault":"http_test",
+      "default":"http_test",
       "language":"xlang",
       "platform":"Window(x86,x64,RT),linux(x86,x64,ARM),Mac OSX",
       "details":	"使用HttpRequest类下载文件",
-      "url":"https://raw.githubusercontent.com/ixlang/examples/master/http_test.zip"
+      "url":"https://raw.githubusercontent.com/ixlang/examples/master/http_test.zip",
+      "user":"example"
     }
  ]
 }
