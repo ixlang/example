@@ -1,12 +1,28 @@
 {
    "xlang":[
    {
-      "name":"Http(s)下载文件",
+      "name":"Http(s) Get下载文件",
       "default":"http_test",
       "language":"xlang",
       "platform":"Window(x86,x64,RT),linux(x86,x64,ARM),Mac OSX",
       "details":	"使用HttpRequest类下载文件",
       "url":"https://raw.githubusercontent.com/ixlang/examples/master/http_test.zip"
+    },
+    {
+      "name":"Http(s) Post上传文件提交表单",
+      "default":"uploadapp",
+      "language":"xlang",
+      "platform":"Window(x86,x64,RT),linux(x86,x64,ARM),Mac OSX",
+      "details":	"使用HttpRequest类post批量上传文件,提交表单示例",
+      "url":"https://raw.githubusercontent.com/ixlang/examples/master/uploadapp.zip"
+    },
+    {
+      "name":"XNetcat 使用TCP连接的demo",
+      "default":"xnetcat",
+      "language":"xlang",
+      "platform":"Window(x86,x64,RT),linux(x86,x64,ARM),Mac OSX",
+      "details":	"使用TCP连接传输数据的控制台程序示例",
+      "url":"https://raw.githubusercontent.com/ixlang/examples/master/xnetcat.zip"
     }
  ]
 }
