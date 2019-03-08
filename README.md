@@ -15,3 +15,7 @@
 # 提示
 
 XStudio 可直接与该示例仓库相连,在 XStudio 的新建界面中,展开左侧列表里的[代码示例],并点击[点击刷新]选项可直接查看该代码示例仓库中的项,在右侧列表中选中要查看的项目之后,点击界面上的 [创建] 按钮即可下载并载入示例.
+
+如下图示:
+
+![](https://github.com/ixlang/examples/blob/master/example.jpg)
