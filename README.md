@@ -26,7 +26,7 @@ XStudio 可直接与该示例仓库相连,在 XStudio 的新建界面中,展开�
 
 # XStudio 下载地址
 
-[![xlang & XStudio 官方网站]()](http://xlang.vsylab.com/)
+[![xlang & XStudio 官方网站]](http://xlang.vsylab.com/)
 
 # 开发者交流
 
