@@ -19,7 +19,7 @@ XStudio 可直接与该示例仓库相连,在 XStudio 的新建界面中,展开�
 如下图示:
 
 # 在首页点击 [新建] 
-![](https://github.com/ixlang/examples/blob/master/eindex.jpg)
+![](https://github.com/ixlang/examples/blob/master/eindex.png)
 
 # 或者使用菜单 [文件] -> [新建] 
 ![](https://github.com/ixlang/examples/blob/master/example.jpg)
