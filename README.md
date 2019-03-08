@@ -18,4 +18,18 @@ XStudio 可直接与该示例仓库相连,在 XStudio 的新建界面中,展开�
 
 如下图示:
 
+# 在首页点击 [新建] 
+![](https://github.com/ixlang/examples/blob/master/eindex.jpg)
+
+# 或者使用菜单 [文件] -> [新建] 
 ![](https://github.com/ixlang/examples/blob/master/example.jpg)
+
+# XStudio 下载地址
+
+[![xlang & XStudio 官方网站]()](http://xlang.vsylab.com/)
+
+# 开发者交流
+
+xlang & XStudio语言开发交流QQ群
+
+[![xlang & XStudio语言开发交流群](https://pub.idqqimg.com/wpa/images/group.png)](https://shang.qq.com/wpa/qunwpa?idkey=d942b64d32f7fd1e537b8f49284b33dbb6e9268bb57586be89895737cbae0bb7)
