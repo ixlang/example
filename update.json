@@ -23,6 +23,14 @@
       "platform":"Window(x86,x64,RT),linux(x86,x64,ARM),Mac OSX",
       "details":	"使用TCP连接传输数据的控制台程序示例",
       "url":"https://raw.githubusercontent.com/ixlang/examples/master/xnetcat.zip"
+    },
+    {
+      "name":"创建和解析Json的demo",
+      "default":"jsonApp",
+      "language":"xlang",
+      "platform":"Window(x86,x64,RT),linux(x86,x64,ARM),Mac OSX",
+      "details":	"创建和解析Json数据",
+      "url":"https://raw.githubusercontent.com/ixlang/examples/master/jsonApp.zip"
     }
  ]
 }
