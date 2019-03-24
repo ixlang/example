@@ -39,6 +39,14 @@
       "platform":"Window(x86,x64,RT),linux(x86,x64,ARM),Mac OSX",
       "details":	"创建和解析XML数据",
       "url":"https://raw.githubusercontent.com/ixlang/examples/master/xmldemo.zip"
+    },
+    {
+      "name":"基于QT的工具App Demo",
+      "default":"xnettools",
+      "language":"xlang",
+      "platform":"Window(x86,x64,RT),linux(x86,x64,ARM),Mac OSX",
+      "details":	"使用QT开发的网络工具箱程序，包含UI,正则表达式,http测试等功能",
+      "url":"https://raw.githubusercontent.com/ixlang/examples/master/xnettools.zip"
     }
  ]
 }
