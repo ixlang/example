@@ -31,6 +31,14 @@
       "platform":"Window(x86,x64,RT),linux(x86,x64,ARM),Mac OSX",
       "details":	"创建和解析Json数据",
       "url":"https://raw.githubusercontent.com/ixlang/examples/master/jsonApp.zip"
+    },
+    {
+      "name":"创建和解析XML的demo",
+      "default":"xmldemo",
+      "language":"xlang",
+      "platform":"Window(x86,x64,RT),linux(x86,x64,ARM),Mac OSX",
+      "details":	"创建和解析XML数据",
+      "url":"https://raw.githubusercontent.com/ixlang/examples/master/xmldemo.zip"
     }
  ]
 }
