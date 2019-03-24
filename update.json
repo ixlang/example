@@ -47,6 +47,14 @@
       "platform":"Window(x86,x64,RT),linux(x86,x64,ARM),Mac OSX",
       "details":	"使用QT开发的网络工具箱程序，包含UI,正则表达式,http测试等功能",
       "url":"https://raw.githubusercontent.com/ixlang/examples/master/xnettools.zip"
+    },
+    {
+      "name":"基于QT的可视化Zip压缩文件管理器",
+      "default":"xzip",
+      "language":"xlang",
+      "platform":"Window(x86,x64,RT),linux(x86,x64,ARM),Mac OSX",
+      "details":	"可视化的Zip文件管理器， 支持压缩、解压、浏览Zip文件内容， 支持拖放文件",
+      "url":"https://raw.githubusercontent.com/ixlang/examples/master/xzip.zip"
     }
  ]
 }
