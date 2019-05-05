@@ -55,6 +55,14 @@
       "platform":"Window(x86,x64,RT),linux(x86,x64,ARM),Mac OSX",
       "details":	"可视化的Zip文件管理器， 支持压缩、解压、浏览Zip文件内容， 支持拖放文件",
       "url":"https://raw.githubusercontent.com/ixlang/examples/master/xzip.zip"
+    },
+    {
+      "name":"处理系统信号示例",
+      "default":"signal_tester",
+      "language":"xlang",
+      "platform":"Window(x86,x64,RT),linux(x86,x64,ARM),Mac OSX",
+      "details":	"在X中捕获并处理由CTRL+C按下产生的信号",
+      "url":"https://raw.githubusercontent.com/ixlang/examples/master/signal_tester.zip"
     }
  ]
 }
