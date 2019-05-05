@@ -63,6 +63,14 @@
       "platform":"Window(x86,x64,RT),linux(x86,x64,ARM),Mac OSX",
       "details":	"在X中捕获并处理由CTRL+C按下产生的信号",
       "url":"https://raw.githubusercontent.com/ixlang/examples/master/signal_tester.zip"
+    },
+    {
+      "name":"QT画图板示例",
+      "default":"xpainter",
+      "language":"xlang",
+      "platform":"Window(x86,x64,RT),linux(x86,x64,ARM),Mac OSX",
+      "details":	"QT画图板示例",
+      "url":"https://raw.githubusercontent.com/ixlang/examples/master/xpainter.zip"
     }
  ]
 }
