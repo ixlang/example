@@ -11,6 +11,20 @@
 ## xnetcat
 使用 TCP 在控制台进行简单的数据传输代码示例
 
+## signal_tester
+在X中捕获并处理由CTRL+C按下产生的信号的示例
+
+## xzip
+可视化的Zip文件管理器， 支持压缩、解压、浏览Zip文件内容， 支持拖放文件
+
+## jsonApp
+创建和解析Json数据
+
+## xmldemo
+创建和解析XML数据
+
+## xnettools
+使用QT开发的网络工具箱程序，包含UI,正则表达式,http测试等功能
 
 # 提示
 
