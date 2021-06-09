@@ -40,7 +40,7 @@ XStudio 可直接与该示例仓库相连,在 XStudio 的新建界面中,展开�
 
 # XStudio 下载地址
 
-[xlang & XStudio 官网下载](http://xlang.vsylab.com/)
+[xlang & XStudio 官网下载](http://xlang.link/)
 
 # 开发者交流
 
